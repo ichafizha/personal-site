@@ -46,6 +46,6 @@
   }
 
   li a:hover {
-    color: #2199e8;
+    color: #da88d6;
   }
 </style>

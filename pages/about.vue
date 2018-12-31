@@ -7,11 +7,11 @@
           <img class="avatar" :src="AVA">
         </div>
         <div class="eight columns">
-          <h4 class="ma0">MUHAMMAD RIVKI</h4>
+          <h4 class="ma0">HAFIZHA HUSNAISA</h4>
           <h5><em>– A CURIOUS PERSON</em></h5>
 
           <p class="u-p--hero">
-            Hello my name is Muhammad Rivki. I'm a Frontend Engineer who loves simplicity, create great looking web products and performance first. Currently i live in Jakarta, Indonesia and now working at
+            Hello my name is Hafizha Husnaisa. I'm a Data Analyst who loves simplicity, create great looking web products and performance first. Currently i live in Jakarta, Indonesia and now working at
             <a href="https://bukalapak.com/" target="_blank">Bukalapak</a>. 
           </p>
           
@@ -34,7 +34,7 @@
               PT. Bukalapak.com
             </span>
             <br />
-            <small class="mt0"><em>Frontend Engineer</em></small>
+            <small class="mt0"><em>Data Analyst</em></small>
           </p>
 
           <!--CODELABS.COM-->
@@ -45,7 +45,7 @@
               Codelabs Unikom
             </span>
             <br />
-            <small class="mt0"><em>Frontend Engineer</em></small>
+            <small class="mt0"><em>Data Analyst</em></small>
           </p>
 
         </div>
